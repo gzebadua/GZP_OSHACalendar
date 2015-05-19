@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://riodorado.com.mx/memozebadua/helix" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="memozebadua" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgUjdELa0i0qr7U/jfhzmLQAAAAACAAAAAAAQZgAAAAEAACAAAADpTWXEDdFyJJhaombvQEnLzo1U2hgRxfckyVQIF4j3LQAAAAAOgAAAAAIAACAAAADBIiJllghMivu/GEKb6IBHCGCIY49zFmeIl5aB2y9eyyAAAADzAbuOfQQojRK3FvJYgvhLU3VX8/zW+yeDaogbaPA4cEAAAADVPVHsQyAvNNdwG2K5Mqxd8Fc9bz4jTr8SIy3QpTCB2xMj1TonK0WTUeCtTOzxaf0kB+HB6vJxUhWICi7qRQ1Z" SelectedForPublish="True">
+    <file relUrl="img/logo.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/bits.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="04/09/2010 21:04:32" />
+    <file relUrl="restoreDB.aspx" publishTime="07/13/2011 16:27:07" />
+    <file relUrl="bin/Helix.dll" publishTime="03/05/2012 20:40:24" />
+    <file relUrl="bin/Helix.xml" publishTime="03/05/2012 20:40:24" />
+    <file relUrl="img/golddot.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/noright.swf" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="index.html" publishTime="07/13/2011 16:26:44" />
+    <file relUrl="img/img_background.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/img_sample_header.jpg" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/add.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="sysError.aspx" publishTime="07/13/2011 00:39:51" />
+    <file relUrl="img/Red.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/Yellowdot.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="05/12/2010 11:10:28" />
+    <file relUrl="img/eye.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/delete.gif" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="SeeCalendar.aspx" publishTime="07/13/2011 16:07:44" />
+    <file relUrl="Plant.aspx" publishTime="07/13/2011 16:08:07" />
+    <file relUrl="img/img_left_nav3.jpg" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="bin/Helix.pdb" publishTime="03/05/2012 20:40:24" />
+    <file relUrl="Web.config" publishTime="03/05/2012 20:38:56" />
+    <file relUrl="index.aspx" publishTime="07/13/2011 02:31:07" />
+    <file relUrl="img/img_header_nav_bottom.jpg" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="img/img_left_nav.jpg" publishTime="07/12/2011 18:44:29" />
+    <file relUrl="css/style.css" publishTime="07/12/2011 20:57:17" />
+    <file relUrl="sessionEnd.aspx" publishTime="07/13/2011 00:39:39" />
+  </publishProfile>
+</publishData>

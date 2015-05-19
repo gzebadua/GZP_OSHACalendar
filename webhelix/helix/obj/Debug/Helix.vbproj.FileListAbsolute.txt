@@ -1,0 +1,9 @@
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\bin\Helix.dll
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\bin\Helix.pdb
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\bin\Helix.xml
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\Helix.Resources.resources
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\Helix.vbproj.GenerateResource.Cache
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\Helix.dll
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\Helix.xml
+C:\Users\NeMo\Documents\Proyectos\helix\Helix\obj\Debug\Helix.pdb

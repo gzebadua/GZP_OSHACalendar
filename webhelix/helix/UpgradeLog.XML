@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Helix">
+</Property><Property Name="Solution File" Value="E:\Memo\helix\Helix\Helix.sln">
+</Property><Property Name="User Options File" Value="E:\Memo\helix\Helix\Helix.suo">
+</Property><Property Name="Date" Value="Monday, March 05, 2012">
+</Property><Property Name="Time" Value="20:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Helix.sln" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Helix.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Helix.suo" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Helix.suo">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Helix.vbproj" Description="Project file successfully backed up as E:\Memo\helix\Helix\Backup\Helix.vbproj">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Helix.vbproj.user" Description="Project user file successfully backed up as E:\Memo\helix\Helix\Backup\Helix.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Helix" Source="restoreDB.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\restoreDB.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="restoreDB.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\restoreDB.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Utilities.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Utilities.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="index.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\index.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="index.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\index.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\MyExtensions\MyWebExtension.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\MyExtensions\MyWebExtension.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Plant.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Plant.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Plant.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Plant.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="SeeCalendar.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\SeeCalendar.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="SeeCalendar.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\SeeCalendar.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sessionEnd.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sessionEnd.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sessionEnd.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sessionEnd.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sysError.aspx.designer.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sysError.aspx.designer.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sysError.aspx.vb" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sysError.aspx.vb">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Helix" Source="css\style.css" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\css\style.css">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\add.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\add.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\bits.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\bits.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\delete.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\delete.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\eye.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\eye.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\golddot.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\golddot.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\img_background.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\img_background.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\img_header_nav_bottom.jpg" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\img_header_nav_bottom.jpg">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\img_left_nav.jpg" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\img_left_nav.jpg">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\img_left_nav3.jpg" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\img_left_nav3.jpg">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\img_sample_header.jpg" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\img_sample_header.jpg">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\logo.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\logo.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\noright.swf" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\noright.swf">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\Red.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\Red.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="img\Yellowdot.gif" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\img\Yellowdot.gif">
+</Event><Event ErrorLevel="0" Project="Helix" Source="index.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\index.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="index.html" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\index.html">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Plant.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Plant.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="restoreDB.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\restoreDB.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="SeeCalendar.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\SeeCalendar.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sessionEnd.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sessionEnd.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="sysError.aspx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\sysError.aspx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Web.config" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="Helix" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Memo\helix\Helix\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Helix.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Helix" Source="Helix.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Helix.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Helix.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Helix" Source="Helix.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
